@@ -1,44 +1,25 @@
-Project Title
-Simple overview of use/purpose.
+# Star Tracker
+Batter is a clone of the classic breakout game.
 
-Description
-An in-depth paragraph about your project and overview of use.
+## Getting Started
+---
+You will need: 
+An equitorial telescope mount
+Arduino Uno
+2 Servo Motors
+Joystick for arduino
+Mount for Servos
+External Power for arduino and servo
+```
+Arduino IDE
+```
+## Overview
+Originally created as a star tracking telescope, however due to time constraints you control the servos manually. 
+Using the arduino to rotate the servos (after converting them into continuous rotation servos)
+This should rotate the dials of the telescope to position it.
+Used zip ties for servo mounts.
+Got shaft couplers to attach servos to dials.
 
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
-
-command to run if program contains helper info
-Authors
-Contributors names and contact info
-
-ex. Dominique Pizzie
-ex. @DomPizzie
-
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-Acknowledgments
-Inspiration, code snippets, etc.
-
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
+## Required Technologies
+---
+* Python 3.8.0
